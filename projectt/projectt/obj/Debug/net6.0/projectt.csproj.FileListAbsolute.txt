@@ -1,0 +1,4 @@
+C:\D\ThucHanh_T2208A\KÌ 3\projectt\projectt\obj\Debug\net6.0\projectt.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\ThucHanh_T2208A\KÌ 3\projectt\projectt\obj\Debug\net6.0\projectt.AssemblyInfoInputs.cache
+C:\D\ThucHanh_T2208A\KÌ 3\projectt\projectt\obj\Debug\net6.0\projectt.AssemblyInfo.cs
+C:\D\ThucHanh_T2208A\KÌ 3\projectt\projectt\obj\Debug\net6.0\projectt.csproj.CoreCompileInputs.cache
